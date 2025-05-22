@@ -1,0 +1,1752 @@
+{
+  "😊 text-symbols": {
+    "symbols": {
+      "heart": {
+        "❤️": {
+          "$type": "text",
+          "$value": "❤️",
+          "$description": "HEAVY BLACK HEART, VARIATION SELECTOR-16 (U+2764 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🧡": {
+          "$type": "text",
+          "$value": "🧡",
+          "$description": "ORANGE HEART (U+1F9E1)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💛": {
+          "$type": "text",
+          "$value": "💛",
+          "$description": "YELLOW HEART (U+1F49B)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💚": {
+          "$type": "text",
+          "$value": "💚",
+          "$description": "GREEN HEART (U+1F49A)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💙": {
+          "$type": "text",
+          "$value": "💙",
+          "$description": "BLUE HEART (U+1F499)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💜": {
+          "$type": "text",
+          "$value": "💜",
+          "$description": "PURPLE HEART (U+1F49C)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🖤": {
+          "$type": "text",
+          "$value": "🖤",
+          "$description": "BLACK HEART (U+1F5A4)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🤍": {
+          "$type": "text",
+          "$value": "🤍",
+          "$description": "WHITE HEART (U+1F90D)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🤎": {
+          "$type": "text",
+          "$value": "🤎",
+          "$description": "BROWN HEART (U+1F90E)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💔": {
+          "$type": "text",
+          "$value": "💔",
+          "$description": "BROKEN HEART (U+1F494)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💖": {
+          "$type": "text",
+          "$value": "💖",
+          "$description": "SPARKLING HEART (U+1F496)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💗": {
+          "$type": "text",
+          "$value": "💗",
+          "$description": "GROWING HEART (U+1F497)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💓": {
+          "$type": "text",
+          "$value": "💓",
+          "$description": "BEATING HEART (U+1F493)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💞": {
+          "$type": "text",
+          "$value": "💞",
+          "$description": "REVOLVING HEARTS (U+1F49E)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💘": {
+          "$type": "text",
+          "$value": "💘",
+          "$description": "HEART WITH ARROW (U+1F498)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💝": {
+          "$type": "text",
+          "$value": "💝",
+          "$description": "HEART WITH RIBBON (U+1F49D)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💟": {
+          "$type": "text",
+          "$value": "💟",
+          "$description": "HEART DECORATION (U+1F49F)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "arrow": {
+        "←": {
+          "$type": "text",
+          "$value": "←",
+          "$description": "LEFTWARDS ARROW (U+2190)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "↑": {
+          "$type": "text",
+          "$value": "↑",
+          "$description": "UPWARDS ARROW (U+2191)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "→": {
+          "$type": "text",
+          "$value": "→",
+          "$description": "RIGHTWARDS ARROW (U+2192)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "↓": {
+          "$type": "text",
+          "$value": "↓",
+          "$description": "DOWNWARDS ARROW (U+2193)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "↔": {
+          "$type": "text",
+          "$value": "↔",
+          "$description": "LEFT RIGHT ARROW (U+2194)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "↕": {
+          "$type": "text",
+          "$value": "↕",
+          "$description": "UP DOWN ARROW (U+2195)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "↖": {
+          "$type": "text",
+          "$value": "↖",
+          "$description": "NORTH WEST ARROW (U+2196)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "↗": {
+          "$type": "text",
+          "$value": "↗",
+          "$description": "NORTH EAST ARROW (U+2197)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "↘": {
+          "$type": "text",
+          "$value": "↘",
+          "$description": "SOUTH EAST ARROW (U+2198)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "↙": {
+          "$type": "text",
+          "$value": "↙",
+          "$description": "SOUTH WEST ARROW (U+2199)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⤴": {
+          "$type": "text",
+          "$value": "⤴",
+          "$description": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS (U+2934)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⤵": {
+          "$type": "text",
+          "$value": "⤵",
+          "$description": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS (U+2935)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "➡": {
+          "$type": "text",
+          "$value": "➡",
+          "$description": "BLACK RIGHTWARDS ARROW (U+27A1)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⬅": {
+          "$type": "text",
+          "$value": "⬅",
+          "$description": "LEFTWARDS BLACK ARROW (U+2B05)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⬆": {
+          "$type": "text",
+          "$value": "⬆",
+          "$description": "UPWARDS BLACK ARROW (U+2B06)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⬇": {
+          "$type": "text",
+          "$value": "⬇",
+          "$description": "DOWNWARDS BLACK ARROW (U+2B07)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⇧": {
+          "$type": "text",
+          "$value": "⇧",
+          "$description": "UPWARDS WHITE ARROW (U+21E7)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⇩": {
+          "$type": "text",
+          "$value": "⇩",
+          "$description": "DOWNWARDS WHITE ARROW (U+21E9)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "maths": {
+        "±": {
+          "$type": "text",
+          "$value": "±",
+          "$description": "PLUS-MINUS SIGN (U+00B1)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "×": {
+          "$type": "text",
+          "$value": "×",
+          "$description": "MULTIPLICATION SIGN (U+00D7)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "÷": {
+          "$type": "text",
+          "$value": "÷",
+          "$description": "DIVISION SIGN (U+00F7)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∞": {
+          "$type": "text",
+          "$value": "∞",
+          "$description": "INFINITY (U+221E)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "≠": {
+          "$type": "text",
+          "$value": "≠",
+          "$description": "NOT EQUAL TO (U+2260)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "≈": {
+          "$type": "text",
+          "$value": "≈",
+          "$description": "ALMOST EQUAL TO (U+2248)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "≤": {
+          "$type": "text",
+          "$value": "≤",
+          "$description": "LESS-THAN OR EQUAL TO (U+2264)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "≥": {
+          "$type": "text",
+          "$value": "≥",
+          "$description": "GREATER-THAN OR EQUAL TO (U+2265)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "√": {
+          "$type": "text",
+          "$value": "√",
+          "$description": "SQUARE ROOT (U+221A)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∑": {
+          "$type": "text",
+          "$value": "∑",
+          "$description": "N-ARY SUMMATION (U+2211)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∏": {
+          "$type": "text",
+          "$value": "∏",
+          "$description": "N-ARY PRODUCT (U+220F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∫": {
+          "$type": "text",
+          "$value": "∫",
+          "$description": "INTEGRAL (U+222B)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∆": {
+          "$type": "text",
+          "$value": "∆",
+          "$description": "INCREMENT (U+2206)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∇": {
+          "$type": "text",
+          "$value": "∇",
+          "$description": "NABLA (U+2207)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∂": {
+          "$type": "text",
+          "$value": "∂",
+          "$description": "PARTIAL DIFFERENTIAL (U+2202)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∅": {
+          "$type": "text",
+          "$value": "∅",
+          "$description": "EMPTY SET (U+2205)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∈": {
+          "$type": "text",
+          "$value": "∈",
+          "$description": "ELEMENT OF (U+2208)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∉": {
+          "$type": "text",
+          "$value": "∉",
+          "$description": "NOT AN ELEMENT OF (U+2209)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∪": {
+          "$type": "text",
+          "$value": "∪",
+          "$description": "UNION (U+222A)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∩": {
+          "$type": "text",
+          "$value": "∩",
+          "$description": "INTERSECTION (U+2229)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∧": {
+          "$type": "text",
+          "$value": "∧",
+          "$description": "LOGICAL AND (U+2227)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∨": {
+          "$type": "text",
+          "$value": "∨",
+          "$description": "LOGICAL OR (U+2228)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∀": {
+          "$type": "text",
+          "$value": "∀",
+          "$description": "FOR ALL (U+2200)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∃": {
+          "$type": "text",
+          "$value": "∃",
+          "$description": "THERE EXISTS (U+2203)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∴": {
+          "$type": "text",
+          "$value": "∴",
+          "$description": "THEREFORE (U+2234)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∵": {
+          "$type": "text",
+          "$value": "∵",
+          "$description": "BECAUSE (U+2235)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∝": {
+          "$type": "text",
+          "$value": "∝",
+          "$description": "PROPORTIONAL TO (U+221D)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∥": {
+          "$type": "text",
+          "$value": "∥",
+          "$description": "PARALLEL TO (U+2225)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⊂": {
+          "$type": "text",
+          "$value": "⊂",
+          "$description": "SUBSET OF (U+2282)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⊃": {
+          "$type": "text",
+          "$value": "⊃",
+          "$description": "SUPERSET OF (U+2283)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⊆": {
+          "$type": "text",
+          "$value": "⊆",
+          "$description": "SUBSET OF OR EQUAL TO (U+2286)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⊇": {
+          "$type": "text",
+          "$value": "⊇",
+          "$description": "SUPERSET OF OR EQUAL TO (U+2287)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⊕": {
+          "$type": "text",
+          "$value": "⊕",
+          "$description": "CIRCLED PLUS (U+2295)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⊗": {
+          "$type": "text",
+          "$value": "⊗",
+          "$description": "CIRCLED TIMES (U+2297)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "∠": {
+          "$type": "text",
+          "$value": "∠",
+          "$description": "ANGLE (U+2220)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "weather": {
+        "☀️": {
+          "$type": "text",
+          "$value": "☀️",
+          "$description": "BLACK SUN WITH RAYS, VARIATION SELECTOR-16 (U+2600 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🌤️": {
+          "$type": "text",
+          "$value": "🌤️",
+          "$description": "WHITE SUN WITH SMALL CLOUD, VARIATION SELECTOR-16 (U+1F324 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⛅": {
+          "$type": "text",
+          "$value": "⛅",
+          "$description": "SUN BEHIND CLOUD (U+26C5)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "☁️": {
+          "$type": "text",
+          "$value": "☁️",
+          "$description": "CLOUD, VARIATION SELECTOR-16 (U+2601 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🌧️": {
+          "$type": "text",
+          "$value": "🌧️",
+          "$description": "CLOUD WITH RAIN, VARIATION SELECTOR-16 (U+1F327 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⛈️": {
+          "$type": "text",
+          "$value": "⛈️",
+          "$description": "THUNDER CLOUD AND RAIN, VARIATION SELECTOR-16 (U+26C8 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🌩️": {
+          "$type": "text",
+          "$value": "🌩️",
+          "$description": "CLOUD WITH LIGHTNING, VARIATION SELECTOR-16 (U+1F329 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🌨️": {
+          "$type": "text",
+          "$value": "🌨️",
+          "$description": "CLOUD WITH SNOW, VARIATION SELECTOR-16 (U+1F328 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "❄️": {
+          "$type": "text",
+          "$value": "❄️",
+          "$description": "SNOWFLAKE, VARIATION SELECTOR-16 (U+2744 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🌪️": {
+          "$type": "text",
+          "$value": "🌪️",
+          "$description": "CLOUD WITH TORNADO, VARIATION SELECTOR-16 (U+1F32A U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🌫️": {
+          "$type": "text",
+          "$value": "🌫️",
+          "$description": "FOG, VARIATION SELECTOR-16 (U+1F32B U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🌬️": {
+          "$type": "text",
+          "$value": "🌬️",
+          "$description": "WIND BLOWING FACE, VARIATION SELECTOR-16 (U+1F32C U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🌦️": {
+          "$type": "text",
+          "$value": "🌦️",
+          "$description": "WHITE SUN BEHIND CLOUD WITH RAIN, VARIATION SELECTOR-16 (U+1F326 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "warning": {
+        "⚠️": {
+          "$type": "text",
+          "$value": "⚠️",
+          "$description": "WARNING SIGN, VARIATION SELECTOR-16 (U+26A0 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "☢️": {
+          "$type": "text",
+          "$value": "☢️",
+          "$description": "RADIOACTIVE SIGN, VARIATION SELECTOR-16 (U+2622 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "☣️": {
+          "$type": "text",
+          "$value": "☣️",
+          "$description": "BIOHAZARD SIGN, VARIATION SELECTOR-16 (U+2623 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚫": {
+          "$type": "text",
+          "$value": "🚫",
+          "$description": "NO ENTRY SIGN (U+1F6AB)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⛔": {
+          "$type": "text",
+          "$value": "⛔",
+          "$description": "NO ENTRY (U+26D4)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚷": {
+          "$type": "text",
+          "$value": "🚷",
+          "$description": "NO PEDESTRIANS (U+1F6B7)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚯": {
+          "$type": "text",
+          "$value": "🚯",
+          "$description": "DO NOT LITTER SYMBOL (U+1F6AF)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚱": {
+          "$type": "text",
+          "$value": "🚱",
+          "$description": "NON-POTABLE WATER SYMBOL (U+1F6B1)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "shapes": {
+        "◼️": {
+          "$type": "text",
+          "$value": "◼️",
+          "$description": "BLACK MEDIUM SQUARE, VARIATION SELECTOR-16 (U+25FC U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "◻️": {
+          "$type": "text",
+          "$value": "◻️",
+          "$description": "WHITE MEDIUM SQUARE, VARIATION SELECTOR-16 (U+25FB U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "◾": {
+          "$type": "text",
+          "$value": "◾",
+          "$description": "BLACK MEDIUM SMALL SQUARE (U+25FE)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "◽": {
+          "$type": "text",
+          "$value": "◽",
+          "$description": "WHITE MEDIUM SMALL SQUARE (U+25FD)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "▪": {
+          "$type": "text",
+          "$value": "▪",
+          "$description": "BLACK SMALL SQUARE (U+25AA)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "▫": {
+          "$type": "text",
+          "$value": "▫",
+          "$description": "WHITE SMALL SQUARE (U+25AB)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔺": {
+          "$type": "text",
+          "$value": "🔺",
+          "$description": "UP-POINTING RED TRIANGLE (U+1F53A)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔻": {
+          "$type": "text",
+          "$value": "🔻",
+          "$description": "DOWN-POINTING RED TRIANGLE (U+1F53B)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔸": {
+          "$type": "text",
+          "$value": "🔸",
+          "$description": "SMALL ORANGE DIAMOND (U+1F538)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔹": {
+          "$type": "text",
+          "$value": "🔹",
+          "$description": "SMALL BLUE DIAMOND (U+1F539)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔶": {
+          "$type": "text",
+          "$value": "🔶",
+          "$description": "LARGE ORANGE DIAMOND (U+1F536)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔷": {
+          "$type": "text",
+          "$value": "🔷",
+          "$description": "LARGE BLUE DIAMOND (U+1F537)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⬛": {
+          "$type": "text",
+          "$value": "⬛",
+          "$description": "BLACK LARGE SQUARE (U+2B1B)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⬜": {
+          "$type": "text",
+          "$value": "⬜",
+          "$description": "WHITE LARGE SQUARE (U+2B1C)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔳": {
+          "$type": "text",
+          "$value": "🔳",
+          "$description": "WHITE SQUARE BUTTON (U+1F533)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔲": {
+          "$type": "text",
+          "$value": "🔲",
+          "$description": "BLACK SQUARE BUTTON (U+1F532)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "music": {
+        "♩": {
+          "$type": "text",
+          "$value": "♩",
+          "$description": "QUARTER NOTE (U+2669)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "♪": {
+          "$type": "text",
+          "$value": "♪",
+          "$description": "EIGHTH NOTE (U+266A)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "♫": {
+          "$type": "text",
+          "$value": "♫",
+          "$description": "BEAMED EIGHTH NOTES (U+266B)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "♬": {
+          "$type": "text",
+          "$value": "♬",
+          "$description": "BEAMED SIXTEENTH NOTES (U+266C)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🎵": {
+          "$type": "text",
+          "$value": "🎵",
+          "$description": "MUSICAL NOTE (U+1F3B5)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🎶": {
+          "$type": "text",
+          "$value": "🎶",
+          "$description": "MULTIPLE MUSICAL NOTES (U+1F3B6)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🎼": {
+          "$type": "text",
+          "$value": "🎼",
+          "$description": "MUSICAL SCORE (U+1F3BC)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🎧": {
+          "$type": "text",
+          "$value": "🎧",
+          "$description": "HEADPHONE (U+1F3A7)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🎷": {
+          "$type": "text",
+          "$value": "🎷",
+          "$description": "SAXOPHONE (U+1F3B7)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🎸": {
+          "$type": "text",
+          "$value": "🎸",
+          "$description": "GUITAR (U+1F3B8)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🎹": {
+          "$type": "text",
+          "$value": "🎹",
+          "$description": "MUSICAL KEYBOARD (U+1F3B9)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥁": {
+          "$type": "text",
+          "$value": "🥁",
+          "$description": "DRUM WITH DRUMSTICKS (U+1F941)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "money": {
+        "¢": {
+          "$type": "text",
+          "$value": "¢",
+          "$description": "CENT SIGN (U+00A2)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "£": {
+          "$type": "text",
+          "$value": "£",
+          "$description": "POUND SIGN (U+00A3)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "¥": {
+          "$type": "text",
+          "$value": "¥",
+          "$description": "YEN SIGN (U+00A5)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "€": {
+          "$type": "text",
+          "$value": "€",
+          "$description": "EURO SIGN (U+20AC)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₣": {
+          "$type": "text",
+          "$value": "₣",
+          "$description": "FRENCH FRANC SIGN (U+20A3)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₤": {
+          "$type": "text",
+          "$value": "₤",
+          "$description": "LIRA SIGN (U+20A4)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₧": {
+          "$type": "text",
+          "$value": "₧",
+          "$description": "PESETA SIGN (U+20A7)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₩": {
+          "$type": "text",
+          "$value": "₩",
+          "$description": "WON SIGN (U+20A9)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₪": {
+          "$type": "text",
+          "$value": "₪",
+          "$description": "NEW SHEQEL SIGN (U+20AA)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₫": {
+          "$type": "text",
+          "$value": "₫",
+          "$description": "DONG SIGN (U+20AB)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₭": {
+          "$type": "text",
+          "$value": "₭",
+          "$description": "KIP SIGN (U+20AD)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₮": {
+          "$type": "text",
+          "$value": "₮",
+          "$description": "TUGRIK SIGN (U+20AE)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₱": {
+          "$type": "text",
+          "$value": "₱",
+          "$description": "PESO SIGN (U+20B1)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₲": {
+          "$type": "text",
+          "$value": "₲",
+          "$description": "GUARANI SIGN (U+20B2)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₴": {
+          "$type": "text",
+          "$value": "₴",
+          "$description": "HRYVNIA SIGN (U+20B4)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₵": {
+          "$type": "text",
+          "$value": "₵",
+          "$description": "CEDI SIGN (U+20B5)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₹": {
+          "$type": "text",
+          "$value": "₹",
+          "$description": "INDIAN RUPEE SIGN (U+20B9)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₺": {
+          "$type": "text",
+          "$value": "₺",
+          "$description": "TURKISH LIRA SIGN (U+20BA)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₼": {
+          "$type": "text",
+          "$value": "₼",
+          "$description": "MANAT SIGN (U+20BC)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₽": {
+          "$type": "text",
+          "$value": "₽",
+          "$description": "RUBLE SIGN (U+20BD)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "₿": {
+          "$type": "text",
+          "$value": "₿",
+          "$description": "BITCOIN SIGN (U+20BF)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "Ξ": {
+          "$type": "text",
+          "$value": "Ξ",
+          "$description": "GREEK CAPITAL LETTER XI (U+039E)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "religious": {
+        "✝️": {
+          "$type": "text",
+          "$value": "✝️",
+          "$description": "LATIN CROSS, VARIATION SELECTOR-16 (U+271D U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "☪️": {
+          "$type": "text",
+          "$value": "☪️",
+          "$description": "STAR AND CRESCENT, VARIATION SELECTOR-16 (U+262A U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🕉️": {
+          "$type": "text",
+          "$value": "🕉️",
+          "$description": "OM SYMBOL, VARIATION SELECTOR-16 (U+1F549 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "✡️": {
+          "$type": "text",
+          "$value": "✡️",
+          "$description": "STAR OF DAVID, VARIATION SELECTOR-16 (U+2721 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "☸️": {
+          "$type": "text",
+          "$value": "☸️",
+          "$description": "WHEEL OF DHARMA, VARIATION SELECTOR-16 (U+2638 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🛐": {
+          "$type": "text",
+          "$value": "🛐",
+          "$description": "PLACE OF WORSHIP (U+1F6D0)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⛩️": {
+          "$type": "text",
+          "$value": "⛩️",
+          "$description": "SHINTO SHRINE, VARIATION SELECTOR-16 (U+26E9 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⛪": {
+          "$type": "text",
+          "$value": "⛪",
+          "$description": "CHURCH (U+26EA)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🕍": {
+          "$type": "text",
+          "$value": "🕍",
+          "$description": "SYNAGOGUE (U+1F54D)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🕋": {
+          "$type": "text",
+          "$value": "🕋",
+          "$description": "KAABA (U+1F54B)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🕌": {
+          "$type": "text",
+          "$value": "🕌",
+          "$description": "MOSQUE (U+1F54C)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      }
+    },
+    "emojis": {
+      "smileys": {
+        "😀": {
+          "$type": "text",
+          "$value": "😀",
+          "$description": "GRINNING FACE (U+1F600)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😃": {
+          "$type": "text",
+          "$value": "😃",
+          "$description": "SMILING FACE WITH OPEN MOUTH (U+1F603)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😄": {
+          "$type": "text",
+          "$value": "😄",
+          "$description": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES (U+1F604)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😁": {
+          "$type": "text",
+          "$value": "😁",
+          "$description": "GRINNING FACE WITH SMILING EYES (U+1F601)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😆": {
+          "$type": "text",
+          "$value": "😆",
+          "$description": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES (U+1F606)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😅": {
+          "$type": "text",
+          "$value": "😅",
+          "$description": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT (U+1F605)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😂": {
+          "$type": "text",
+          "$value": "😂",
+          "$description": "FACE WITH TEARS OF JOY (U+1F602)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🤣": {
+          "$type": "text",
+          "$value": "🤣",
+          "$description": "ROLLING ON THE FLOOR LAUGHING (U+1F923)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😊": {
+          "$type": "text",
+          "$value": "😊",
+          "$description": "SMILING FACE WITH SMILING EYES (U+1F60A)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😇": {
+          "$type": "text",
+          "$value": "😇",
+          "$description": "SMILING FACE WITH HALO (U+1F607)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙂": {
+          "$type": "text",
+          "$value": "🙂",
+          "$description": "SLIGHTLY SMILING FACE (U+1F642)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙃": {
+          "$type": "text",
+          "$value": "🙃",
+          "$description": "UPSIDE-DOWN FACE (U+1F643)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😉": {
+          "$type": "text",
+          "$value": "😉",
+          "$description": "WINKING FACE (U+1F609)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😌": {
+          "$type": "text",
+          "$value": "😌",
+          "$description": "RELIEVED FACE (U+1F60C)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😍": {
+          "$type": "text",
+          "$value": "😍",
+          "$description": "SMILING FACE WITH HEART-SHAPED EYES (U+1F60D)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥰": {
+          "$type": "text",
+          "$value": "🥰",
+          "$description": "SMILING FACE WITH SMILING EYES AND THREE HEARTS (U+1F970)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😘": {
+          "$type": "text",
+          "$value": "😘",
+          "$description": "FACE THROWING A KISS (U+1F618)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😗": {
+          "$type": "text",
+          "$value": "😗",
+          "$description": "KISSING FACE (U+1F617)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😙": {
+          "$type": "text",
+          "$value": "😙",
+          "$description": "KISSING FACE WITH SMILING EYES (U+1F619)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😚": {
+          "$type": "text",
+          "$value": "😚",
+          "$description": "KISSING FACE WITH CLOSED EYES (U+1F61A)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😋": {
+          "$type": "text",
+          "$value": "😋",
+          "$description": "FACE SAVOURING DELICIOUS FOOD (U+1F60B)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😛": {
+          "$type": "text",
+          "$value": "😛",
+          "$description": "FACE WITH STUCK-OUT TONGUE (U+1F61B)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😝": {
+          "$type": "text",
+          "$value": "😝",
+          "$description": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES (U+1F61D)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😜": {
+          "$type": "text",
+          "$value": "😜",
+          "$description": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE (U+1F61C)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🤪": {
+          "$type": "text",
+          "$value": "🤪",
+          "$description": "GRINNING FACE WITH ONE LARGE AND ONE SMALL EYE (U+1F92A)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🤨": {
+          "$type": "text",
+          "$value": "🤨",
+          "$description": "FACE WITH ONE EYEBROW RAISED (U+1F928)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🧐": {
+          "$type": "text",
+          "$value": "🧐",
+          "$description": "FACE WITH MONOCLE (U+1F9D0)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🤓": {
+          "$type": "text",
+          "$value": "🤓",
+          "$description": "NERD FACE (U+1F913)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😎": {
+          "$type": "text",
+          "$value": "😎",
+          "$description": "SMILING FACE WITH SUNGLASSES (U+1F60E)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🤩": {
+          "$type": "text",
+          "$value": "🤩",
+          "$description": "GRINNING FACE WITH STAR EYES (U+1F929)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥳": {
+          "$type": "text",
+          "$value": "🥳",
+          "$description": "FACE WITH PARTY HORN AND PARTY HAT (U+1F973)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😏": {
+          "$type": "text",
+          "$value": "😏",
+          "$description": "SMIRKING FACE (U+1F60F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "😒": {
+          "$type": "text",
+          "$value": "😒",
+          "$description": "UNAMUSED FACE (U+1F612)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "people": {
+        "🙋": {
+          "$type": "text",
+          "$value": "🙋",
+          "$description": "HAPPY PERSON RAISING ONE HAND (U+1F64B)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙋‍♂️": {
+          "$type": "text",
+          "$value": "🙋‍♂️",
+          "$description": "HAPPY PERSON RAISING ONE HAND, ZERO WIDTH JOINER, MALE SIGN, VARIATION SELECTOR-16 (U+1F64B U+200D U+2642 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙋‍♀️": {
+          "$type": "text",
+          "$value": "🙋‍♀️",
+          "$description": "HAPPY PERSON RAISING ONE HAND, ZERO WIDTH JOINER, FEMALE SIGN, VARIATION SELECTOR-16 (U+1F64B U+200D U+2640 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙇": {
+          "$type": "text",
+          "$value": "🙇",
+          "$description": "PERSON BOWING DEEPLY (U+1F647)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙇‍♂️": {
+          "$type": "text",
+          "$value": "🙇‍♂️",
+          "$description": "PERSON BOWING DEEPLY, ZERO WIDTH JOINER, MALE SIGN, VARIATION SELECTOR-16 (U+1F647 U+200D U+2642 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙇‍♀️": {
+          "$type": "text",
+          "$value": "🙇‍♀️",
+          "$description": "PERSON BOWING DEEPLY, ZERO WIDTH JOINER, FEMALE SIGN, VARIATION SELECTOR-16 (U+1F647 U+200D U+2640 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙎": {
+          "$type": "text",
+          "$value": "🙎",
+          "$description": "PERSON WITH POUTING FACE (U+1F64E)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙎‍♂️": {
+          "$type": "text",
+          "$value": "🙎‍♂️",
+          "$description": "PERSON WITH POUTING FACE, ZERO WIDTH JOINER, MALE SIGN, VARIATION SELECTOR-16 (U+1F64E U+200D U+2642 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙎‍♀️": {
+          "$type": "text",
+          "$value": "🙎‍♀️",
+          "$description": "PERSON WITH POUTING FACE, ZERO WIDTH JOINER, FEMALE SIGN, VARIATION SELECTOR-16 (U+1F64E U+200D U+2640 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙍": {
+          "$type": "text",
+          "$value": "🙍",
+          "$description": "PERSON FROWNING (U+1F64D)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙍‍♂️": {
+          "$type": "text",
+          "$value": "🙍‍♂️",
+          "$description": "PERSON FROWNING, ZERO WIDTH JOINER, MALE SIGN, VARIATION SELECTOR-16 (U+1F64D U+200D U+2642 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙍‍♀️": {
+          "$type": "text",
+          "$value": "🙍‍♀️",
+          "$description": "PERSON FROWNING, ZERO WIDTH JOINER, FEMALE SIGN, VARIATION SELECTOR-16 (U+1F64D U+200D U+2640 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🧍": {
+          "$type": "text",
+          "$value": "🧍",
+          "$description": "STANDING PERSON (U+1F9CD)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🧍‍♂️": {
+          "$type": "text",
+          "$value": "🧍‍♂️",
+          "$description": "STANDING PERSON, ZERO WIDTH JOINER, MALE SIGN, VARIATION SELECTOR-16 (U+1F9CD U+200D U+2642 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🧍‍♀️": {
+          "$type": "text",
+          "$value": "🧍‍♀️",
+          "$description": "STANDING PERSON, ZERO WIDTH JOINER, FEMALE SIGN, VARIATION SELECTOR-16 (U+1F9CD U+200D U+2640 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🧎": {
+          "$type": "text",
+          "$value": "🧎",
+          "$description": "KNEELING PERSON (U+1F9CE)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🧎‍♂️": {
+          "$type": "text",
+          "$value": "🧎‍♂️",
+          "$description": "KNEELING PERSON, ZERO WIDTH JOINER, MALE SIGN, VARIATION SELECTOR-16 (U+1F9CE U+200D U+2642 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🧎‍♀️": {
+          "$type": "text",
+          "$value": "🧎‍♀️",
+          "$description": "KNEELING PERSON, ZERO WIDTH JOINER, FEMALE SIGN, VARIATION SELECTOR-16 (U+1F9CE U+200D U+2640 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💪": {
+          "$type": "text",
+          "$value": "💪",
+          "$description": "FLEXED BICEPS (U+1F4AA)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🦵": {
+          "$type": "text",
+          "$value": "🦵",
+          "$description": "LEG (U+1F9B5)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🦶": {
+          "$type": "text",
+          "$value": "🦶",
+          "$description": "FOOT (U+1F9B6)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🧠": {
+          "$type": "text",
+          "$value": "🧠",
+          "$description": "BRAIN (U+1F9E0)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "👀": {
+          "$type": "text",
+          "$value": "👀",
+          "$description": "EYES (U+1F440)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "👁️": {
+          "$type": "text",
+          "$value": "👁️",
+          "$description": "EYE, VARIATION SELECTOR-16 (U+1F441 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "👃": {
+          "$type": "text",
+          "$value": "👃",
+          "$description": "NOSE (U+1F443)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "👄": {
+          "$type": "text",
+          "$value": "👄",
+          "$description": "MOUTH (U+1F444)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "👂": {
+          "$type": "text",
+          "$value": "👂",
+          "$description": "EAR (U+1F442)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "👅": {
+          "$type": "text",
+          "$value": "👅",
+          "$description": "TONGUE (U+1F445)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "animals": {
+        "🐶": {
+          "$type": "text",
+          "$value": "🐶",
+          "$description": "DOG FACE (U+1F436)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐱": {
+          "$type": "text",
+          "$value": "🐱",
+          "$description": "CAT FACE (U+1F431)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐭": {
+          "$type": "text",
+          "$value": "🐭",
+          "$description": "MOUSE FACE (U+1F42D)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐹": {
+          "$type": "text",
+          "$value": "🐹",
+          "$description": "HAMSTER FACE (U+1F439)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐰": {
+          "$type": "text",
+          "$value": "🐰",
+          "$description": "RABBIT FACE (U+1F430)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🦊": {
+          "$type": "text",
+          "$value": "🦊",
+          "$description": "FOX FACE (U+1F98A)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐻": {
+          "$type": "text",
+          "$value": "🐻",
+          "$description": "BEAR FACE (U+1F43B)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐼": {
+          "$type": "text",
+          "$value": "🐼",
+          "$description": "PANDA FACE (U+1F43C)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐨": {
+          "$type": "text",
+          "$value": "🐨",
+          "$description": "KOALA (U+1F428)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐯": {
+          "$type": "text",
+          "$value": "🐯",
+          "$description": "TIGER FACE (U+1F42F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🦁": {
+          "$type": "text",
+          "$value": "🦁",
+          "$description": "LION FACE (U+1F981)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐮": {
+          "$type": "text",
+          "$value": "🐮",
+          "$description": "COW FACE (U+1F42E)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐷": {
+          "$type": "text",
+          "$value": "🐷",
+          "$description": "PIG FACE (U+1F437)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐸": {
+          "$type": "text",
+          "$value": "🐸",
+          "$description": "FROG FACE (U+1F438)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐵": {
+          "$type": "text",
+          "$value": "🐵",
+          "$description": "MONKEY FACE (U+1F435)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙈": {
+          "$type": "text",
+          "$value": "🙈",
+          "$description": "SEE-NO-EVIL MONKEY (U+1F648)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙉": {
+          "$type": "text",
+          "$value": "🙉",
+          "$description": "HEAR-NO-EVIL MONKEY (U+1F649)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🙊": {
+          "$type": "text",
+          "$value": "🙊",
+          "$description": "SPEAK-NO-EVIL MONKEY (U+1F64A)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐔": {
+          "$type": "text",
+          "$value": "🐔",
+          "$description": "CHICKEN (U+1F414)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐧": {
+          "$type": "text",
+          "$value": "🐧",
+          "$description": "PENGUIN (U+1F427)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐦": {
+          "$type": "text",
+          "$value": "🐦",
+          "$description": "BIRD (U+1F426)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🐤": {
+          "$type": "text",
+          "$value": "🐤",
+          "$description": "BABY CHICK (U+1F424)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🦆": {
+          "$type": "text",
+          "$value": "🦆",
+          "$description": "DUCK (U+1F986)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🦅": {
+          "$type": "text",
+          "$value": "🦅",
+          "$description": "EAGLE (U+1F985)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🦉": {
+          "$type": "text",
+          "$value": "🦉",
+          "$description": "OWL (U+1F989)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "food": {
+        "🍎": {
+          "$type": "text",
+          "$value": "🍎",
+          "$description": "RED APPLE (U+1F34E)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🍊": {
+          "$type": "text",
+          "$value": "🍊",
+          "$description": "TANGERINE (U+1F34A)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🍌": {
+          "$type": "text",
+          "$value": "🍌",
+          "$description": "BANANA (U+1F34C)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🍉": {
+          "$type": "text",
+          "$value": "🍉",
+          "$description": "WATERMELON (U+1F349)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🍇": {
+          "$type": "text",
+          "$value": "🍇",
+          "$description": "GRAPES (U+1F347)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🍓": {
+          "$type": "text",
+          "$value": "🍓",
+          "$description": "STRAWBERRY (U+1F353)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🍒": {
+          "$type": "text",
+          "$value": "🍒",
+          "$description": "CHERRIES (U+1F352)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥝": {
+          "$type": "text",
+          "$value": "🥝",
+          "$description": "KIWIFRUIT (U+1F95D)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥑": {
+          "$type": "text",
+          "$value": "🥑",
+          "$description": "AVOCADO (U+1F951)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥦": {
+          "$type": "text",
+          "$value": "🥦",
+          "$description": "BROCCOLI (U+1F966)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🌽": {
+          "$type": "text",
+          "$value": "🌽",
+          "$description": "EAR OF MAIZE (U+1F33D)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥕": {
+          "$type": "text",
+          "$value": "🥕",
+          "$description": "CARROT (U+1F955)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🍅": {
+          "$type": "text",
+          "$value": "🍅",
+          "$description": "TOMATO (U+1F345)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥔": {
+          "$type": "text",
+          "$value": "🥔",
+          "$description": "POTATO (U+1F954)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🍞": {
+          "$type": "text",
+          "$value": "🍞",
+          "$description": "BREAD (U+1F35E)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥐": {
+          "$type": "text",
+          "$value": "🥐",
+          "$description": "CROISSANT (U+1F950)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥖": {
+          "$type": "text",
+          "$value": "🥖",
+          "$description": "BAGUETTE BREAD (U+1F956)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🧀": {
+          "$type": "text",
+          "$value": "🧀",
+          "$description": "CHEESE WEDGE (U+1F9C0)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🍗": {
+          "$type": "text",
+          "$value": "🍗",
+          "$description": "POULTRY LEG (U+1F357)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🍖": {
+          "$type": "text",
+          "$value": "🍖",
+          "$description": "MEAT ON BONE (U+1F356)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🌭": {
+          "$type": "text",
+          "$value": "🌭",
+          "$description": "HOT DOG (U+1F32D)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🍔": {
+          "$type": "text",
+          "$value": "🍔",
+          "$description": "HAMBURGER (U+1F354)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🍟": {
+          "$type": "text",
+          "$value": "🍟",
+          "$description": "FRENCH FRIES (U+1F35F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🍕": {
+          "$type": "text",
+          "$value": "🍕",
+          "$description": "SLICE OF PIZZA (U+1F355)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🌮": {
+          "$type": "text",
+          "$value": "🌮",
+          "$description": "TACO (U+1F32E)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🌯": {
+          "$type": "text",
+          "$value": "🌯",
+          "$description": "BURRITO (U+1F32F)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "activities": {
+        "⚽": {
+          "$type": "text",
+          "$value": "⚽",
+          "$description": "SOCCER BALL (U+26BD)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⚾": {
+          "$type": "text",
+          "$value": "⚾",
+          "$description": "BASEBALL (U+26BE)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🏀": {
+          "$type": "text",
+          "$value": "🏀",
+          "$description": "BASKETBALL AND HOOP (U+1F3C0)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🏈": {
+          "$type": "text",
+          "$value": "🏈",
+          "$description": "AMERICAN FOOTBALL (U+1F3C8)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🏐": {
+          "$type": "text",
+          "$value": "🏐",
+          "$description": "VOLLEYBALL (U+1F3D0)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🏉": {
+          "$type": "text",
+          "$value": "🏉",
+          "$description": "RUGBY FOOTBALL (U+1F3C9)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🎾": {
+          "$type": "text",
+          "$value": "🎾",
+          "$description": "TENNIS RACQUET AND BALL (U+1F3BE)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥏": {
+          "$type": "text",
+          "$value": "🥏",
+          "$description": "FLYING DISC (U+1F94F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🏓": {
+          "$type": "text",
+          "$value": "🏓",
+          "$description": "TABLE TENNIS PADDLE AND BALL (U+1F3D3)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🏸": {
+          "$type": "text",
+          "$value": "🏸",
+          "$description": "BADMINTON RACQUET AND SHUTTLECOCK (U+1F3F8)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥅": {
+          "$type": "text",
+          "$value": "🥅",
+          "$description": "GOAL NET (U+1F945)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥊": {
+          "$type": "text",
+          "$value": "🥊",
+          "$description": "BOXING GLOVE (U+1F94A)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🥋": {
+          "$type": "text",
+          "$value": "🥋",
+          "$description": "MARTIAL ARTS UNIFORM (U+1F94B)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🎽": {
+          "$type": "text",
+          "$value": "🎽",
+          "$description": "RUNNING SHIRT WITH SASH (U+1F3BD)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🛹": {
+          "$type": "text",
+          "$value": "🛹",
+          "$description": "SKATEBOARD (U+1F6F9)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⛸️": {
+          "$type": "text",
+          "$value": "⛸️",
+          "$description": "ICE SKATE, VARIATION SELECTOR-16 (U+26F8 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "transports": {
+        "🚗": {
+          "$type": "text",
+          "$value": "🚗",
+          "$description": "AUTOMOBILE (U+1F697)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚕": {
+          "$type": "text",
+          "$value": "🚕",
+          "$description": "TAXI (U+1F695)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚙": {
+          "$type": "text",
+          "$value": "🚙",
+          "$description": "RECREATIONAL VEHICLE (U+1F699)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚌": {
+          "$type": "text",
+          "$value": "🚌",
+          "$description": "BUS (U+1F68C)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚎": {
+          "$type": "text",
+          "$value": "🚎",
+          "$description": "TROLLEYBUS (U+1F68E)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🏎️": {
+          "$type": "text",
+          "$value": "🏎️",
+          "$description": "RACING CAR, VARIATION SELECTOR-16 (U+1F3CE U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚓": {
+          "$type": "text",
+          "$value": "🚓",
+          "$description": "POLICE CAR (U+1F693)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚑": {
+          "$type": "text",
+          "$value": "🚑",
+          "$description": "AMBULANCE (U+1F691)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚒": {
+          "$type": "text",
+          "$value": "🚒",
+          "$description": "FIRE ENGINE (U+1F692)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚐": {
+          "$type": "text",
+          "$value": "🚐",
+          "$description": "MINIBUS (U+1F690)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "✈️": {
+          "$type": "text",
+          "$value": "✈️",
+          "$description": "AIRPLANE, VARIATION SELECTOR-16 (U+2708 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚀": {
+          "$type": "text",
+          "$value": "🚀",
+          "$description": "ROCKET (U+1F680)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚁": {
+          "$type": "text",
+          "$value": "🚁",
+          "$description": "HELICOPTER (U+1F681)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚂": {
+          "$type": "text",
+          "$value": "🚂",
+          "$description": "STEAM LOCOMOTIVE (U+1F682)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚆": {
+          "$type": "text",
+          "$value": "🚆",
+          "$description": "TRAIN (U+1F686)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🛳️": {
+          "$type": "text",
+          "$value": "🛳️",
+          "$description": "PASSENGER SHIP, VARIATION SELECTOR-16 (U+1F6F3 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⛴️": {
+          "$type": "text",
+          "$value": "⛴️",
+          "$description": "FERRY, VARIATION SELECTOR-16 (U+26F4 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🚢": {
+          "$type": "text",
+          "$value": "🚢",
+          "$description": "SHIP (U+1F6A2)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🗼": {
+          "$type": "text",
+          "$value": "🗼",
+          "$description": "TOKYO TOWER (U+1F5FC)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🗽": {
+          "$type": "text",
+          "$value": "🗽",
+          "$description": "STATUE OF LIBERTY (U+1F5FD)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🗿": {
+          "$type": "text",
+          "$value": "🗿",
+          "$description": "MOYAI (U+1F5FF)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🏰": {
+          "$type": "text",
+          "$value": "🏰",
+          "$description": "EUROPEAN CASTLE (U+1F3F0)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⛩️": {
+          "$type": "text",
+          "$value": "⛩️",
+          "$description": "SHINTO SHRINE, VARIATION SELECTOR-16 (U+26E9 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "objects": {
+        "🕯️": {
+          "$type": "text",
+          "$value": "🕯️",
+          "$description": "CANDLE, VARIATION SELECTOR-16 (U+1F56F U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💡": {
+          "$type": "text",
+          "$value": "💡",
+          "$description": "ELECTRIC LIGHT BULB (U+1F4A1)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔦": {
+          "$type": "text",
+          "$value": "🔦",
+          "$description": "ELECTRIC TORCH (U+1F526)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🏮": {
+          "$type": "text",
+          "$value": "🏮",
+          "$description": "IZAKAYA LANTERN (U+1F3EE)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🧯": {
+          "$type": "text",
+          "$value": "🧯",
+          "$description": "FIRE EXTINGUISHER (U+1F9EF)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🛢️": {
+          "$type": "text",
+          "$value": "🛢️",
+          "$description": "OIL DRUM, VARIATION SELECTOR-16 (U+1F6E2 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔋": {
+          "$type": "text",
+          "$value": "🔋",
+          "$description": "BATTERY (U+1F50B)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔌": {
+          "$type": "text",
+          "$value": "🔌",
+          "$description": "ELECTRIC PLUG (U+1F50C)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💻": {
+          "$type": "text",
+          "$value": "💻",
+          "$description": "PERSONAL COMPUTER (U+1F4BB)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🖥️": {
+          "$type": "text",
+          "$value": "🖥️",
+          "$description": "DESKTOP COMPUTER, VARIATION SELECTOR-16 (U+1F5A5 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🖨️": {
+          "$type": "text",
+          "$value": "🖨️",
+          "$description": "PRINTER, VARIATION SELECTOR-16 (U+1F5A8 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🖱️": {
+          "$type": "text",
+          "$value": "🖱️",
+          "$description": "THREE BUTTON MOUSE, VARIATION SELECTOR-16 (U+1F5B1 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⌨️": {
+          "$type": "text",
+          "$value": "⌨️",
+          "$description": "KEYBOARD, VARIATION SELECTOR-16 (U+2328 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "📷": {
+          "$type": "text",
+          "$value": "📷",
+          "$description": "CAMERA (U+1F4F7)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "📸": {
+          "$type": "text",
+          "$value": "📸",
+          "$description": "CAMERA WITH FLASH (U+1F4F8)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "📹": {
+          "$type": "text",
+          "$value": "📹",
+          "$description": "VIDEO CAMERA (U+1F4F9)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🎥": {
+          "$type": "text",
+          "$value": "🎥",
+          "$description": "MOVIE CAMERA (U+1F3A5)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "📺": {
+          "$type": "text",
+          "$value": "📺",
+          "$description": "TELEVISION (U+1F4FA)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "📻": {
+          "$type": "text",
+          "$value": "📻",
+          "$description": "RADIO (U+1F4FB)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🎙️": {
+          "$type": "text",
+          "$value": "🎙️",
+          "$description": "STUDIO MICROPHONE, VARIATION SELECTOR-16 (U+1F399 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      },
+      "symbols": {
+        "♻️": {
+          "$type": "text",
+          "$value": "♻️",
+          "$description": "BLACK UNIVERSAL RECYCLING SYMBOL, VARIATION SELECTOR-16 (U+267B U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⚜️": {
+          "$type": "text",
+          "$value": "⚜️",
+          "$description": "FLEUR-DE-LIS, VARIATION SELECTOR-16 (U+269C U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "✳️": {
+          "$type": "text",
+          "$value": "✳️",
+          "$description": "EIGHT SPOKED ASTERISK, VARIATION SELECTOR-16 (U+2733 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "❇️": {
+          "$type": "text",
+          "$value": "❇️",
+          "$description": "SPARKLE, VARIATION SELECTOR-16 (U+2747 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "™️": {
+          "$type": "text",
+          "$value": "™️",
+          "$description": "TRADE MARK SIGN, VARIATION SELECTOR-16 (U+2122 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "©️": {
+          "$type": "text",
+          "$value": "©️",
+          "$description": "COPYRIGHT SIGN, VARIATION SELECTOR-16 (U+00A9 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "®️": {
+          "$type": "text",
+          "$value": "®️",
+          "$description": "REGISTERED SIGN, VARIATION SELECTOR-16 (U+00AE U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "💯": {
+          "$type": "text",
+          "$value": "💯",
+          "$description": "HUNDRED POINTS SYMBOL (U+1F4AF)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔱": {
+          "$type": "text",
+          "$value": "🔱",
+          "$description": "TRIDENT EMBLEM (U+1F531)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔰": {
+          "$type": "text",
+          "$value": "🔰",
+          "$description": "JAPANESE SYMBOL FOR BEGINNER (U+1F530)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⚠️": {
+          "$type": "text",
+          "$value": "⚠️",
+          "$description": "WARNING SIGN, VARIATION SELECTOR-16 (U+26A0 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "❌": {
+          "$type": "text",
+          "$value": "❌",
+          "$description": "CROSS MARK (U+274C)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "✔️": {
+          "$type": "text",
+          "$value": "✔️",
+          "$description": "HEAVY CHECK MARK, VARIATION SELECTOR-16 (U+2714 U+FE0F)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "✅": {
+          "$type": "text",
+          "$value": "✅",
+          "$description": "WHITE HEAVY CHECK MARK (U+2705)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔺": {
+          "$type": "text",
+          "$value": "🔺",
+          "$description": "UP-POINTING RED TRIANGLE (U+1F53A)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔻": {
+          "$type": "text",
+          "$value": "🔻",
+          "$description": "DOWN-POINTING RED TRIANGLE (U+1F53B)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔸": {
+          "$type": "text",
+          "$value": "🔸",
+          "$description": "SMALL ORANGE DIAMOND (U+1F538)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "🔹": {
+          "$type": "text",
+          "$value": "🔹",
+          "$description": "SMALL BLUE DIAMOND (U+1F539)\n\n**Utiliser seulement avec la police Inter**"
+        },
+        "⛔": {
+          "$type": "text",
+          "$value": "⛔",
+          "$description": "NO ENTRY (U+26D4)\n\n**Utiliser seulement avec la police Inter**"
+        }
+      }
+    }
+  }
+}
