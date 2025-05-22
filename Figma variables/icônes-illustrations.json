@@ -1,0 +1,900 @@
+[
+    {
+        "Icon scale": {
+            "modes": {
+                "Default 24x24": {
+                    "iconWidth": {
+                        "$scopes": [
+                            "ALL_SCOPES"
+                        ],
+                        "$type": "float",
+                        "$libraryName": "❖ SDRAMQ - Fondations et composants",
+                        "$collectionName": "components/↳ button",
+                        "$value": "{icon-button.width.default}"
+                    },
+                    "iconHeight": {
+                        "$scopes": [
+                            "ALL_SCOPES"
+                        ],
+                        "$type": "float",
+                        "$libraryName": "",
+                        "$collectionName": "Icon scale",
+                        "$value": "{iconWidth}"
+                    },
+                    "iconBorderWidth": {
+                        "$scopes": [
+                            "ALL_SCOPES"
+                        ],
+                        "$type": "float",
+                        "$libraryName": "❖ SDRAMQ - Fondations et composants",
+                        "$collectionName": "semantic",
+                        "$value": "{borderWidth.regular}"
+                    }
+                },
+                "Compact 16x16": {
+                    "iconWidth": {
+                        "$scopes": [
+                            "ALL_SCOPES"
+                        ],
+                        "$type": "float",
+                        "$libraryName": "❖ SDRAMQ - Fondations et composants",
+                        "$collectionName": "components/↳ icon",
+                        "$value": "{icon-button.width.compact}"
+                    },
+                    "iconHeight": {
+                        "$scopes": [
+                            "ALL_SCOPES"
+                        ],
+                        "$type": "float",
+                        "$libraryName": "",
+                        "$collectionName": "Icon scale",
+                        "$value": "{iconWidth}"
+                    },
+                    "iconBorderWidth": {
+                        "$scopes": [
+                            "ALL_SCOPES"
+                        ],
+                        "$type": "float",
+                        "$libraryName": "❖ SDRAMQ - Fondations et composants",
+                        "$collectionName": "semantic",
+                        "$value": "{borderWidth.light}"
+                    }
+                },
+                "Large 48x48": {
+                    "iconWidth": {
+                        "$scopes": [
+                            "ALL_SCOPES"
+                        ],
+                        "$type": "float",
+                        "$libraryName": "❖ SDRAMQ - Fondations et composants",
+                        "$collectionName": "components/↳ icon",
+                        "$value": "{icon-button.height.large}"
+                    },
+                    "iconHeight": {
+                        "$scopes": [
+                            "ALL_SCOPES"
+                        ],
+                        "$type": "float",
+                        "$libraryName": "",
+                        "$collectionName": "Icon scale",
+                        "$value": "{iconWidth}"
+                    },
+                    "iconBorderWidth": {
+                        "$scopes": [
+                            "ALL_SCOPES"
+                        ],
+                        "$type": "float",
+                        "$libraryName": "❖ SDRAMQ - Fondations et composants",
+                        "$collectionName": "semantic",
+                        "$value": "{borderWidth.medium}"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "GOSTPlugin": {
+            "modes": {
+                "Mode 1": {
+                    "Texts": {
+                        "ComponentDescription": {
+                            "$scopes": [
+                                "ALL_SCOPES"
+                            ],
+                            "$type": "string",
+                            "$value": "[EDIT ME] Enter description for the whole component"
+                        },
+                        "PropertyDescription": {
+                            "$scopes": [
+                                "ALL_SCOPES"
+                            ],
+                            "$type": "string",
+                            "$value": "[EDIT ME] Enter description for the property"
+                        },
+                        "OptionDescription": {
+                            "$scopes": [
+                                "ALL_SCOPES"
+                            ],
+                            "$type": "string",
+                            "$value": "[EDIT ME] Enter description for the option"
+                        },
+                        "SectionTitle": {
+                            "$scopes": [
+                                "ALL_SCOPES"
+                            ],
+                            "$type": "string",
+                            "$value": "[EDIT ME] Section Name"
+                        }
+                    },
+                    "Settings": {
+                        "RowsPrimaryAxis": {
+                            "$scopes": [
+                                "ALL_SCOPES"
+                            ],
+                            "$type": "boolean",
+                            "$value": false
+                        },
+                        "BakeDocumentation": {
+                            "$scopes": [
+                                "ALL_SCOPES"
+                            ],
+                            "$type": "boolean",
+                            "$value": false
+                        },
+                        "DefaultSection": {
+                            "$scopes": [
+                                "ALL_SCOPES"
+                            ],
+                            "$type": "string",
+                            "$value": "Main"
+                        },
+                        "DefaultLayoutSection": {
+                            "$scopes": [
+                                "ALL_SCOPES"
+                            ],
+                            "$type": "string",
+                            "$value": "Main"
+                        }
+                    },
+                    "ComponentCard": {
+                        "Style": {
+                            "Radius": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 0
+                            },
+                            "Padding": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 64
+                            },
+                            "WrapPadding": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 64
+                            },
+                            "Gap": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 64
+                            }
+                        },
+                        "Fonts": {
+                            "Title": {
+                                "Family": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Space Mono"
+                                },
+                                "Style": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Bold"
+                                },
+                                "Size": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 48
+                                },
+                                "LineHeight": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 56
+                                },
+                                "Color": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "color",
+                                    "$value": "#000000"
+                                },
+                                "Margin": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 16
+                                }
+                            },
+                            "Description": {
+                                "Family": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Space Mono"
+                                },
+                                "Style": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Regular"
+                                },
+                                "Size": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 14
+                                },
+                                "LineHeight": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 18
+                                },
+                                "Color": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "color",
+                                    "$value": "#000000"
+                                },
+                                "Width": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 480
+                                }
+                            }
+                        }
+                    },
+                    "PropertiesCard": {
+                        "Style": {
+                            "Radius": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 0
+                            },
+                            "Width": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 720
+                            },
+                            "Padding": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 64
+                            },
+                            "Gap": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 64
+                            },
+                            "Fill": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "color",
+                                "$value": "rgba(0, 0, 0, 2)"
+                            },
+                            "PropertyGap": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 32
+                            },
+                            "PropertyPadding": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 32
+                            },
+                            "PropertyStroke": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "color",
+                                "$value": "#000000"
+                            },
+                            "OptionStroke": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "color",
+                                "$value": "#e6e6e6"
+                            }
+                        },
+                        "Fonts": {
+                            "PropertyTitle": {
+                                "Family": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Space Mono"
+                                },
+                                "Style": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Semi Bold"
+                                },
+                                "Size": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 20
+                                },
+                                "LineHeight": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 24
+                                },
+                                "Color": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "color",
+                                    "$value": "#000000"
+                                },
+                                "Width": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 192
+                                },
+                                "Margin": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 16
+                                }
+                            },
+                            "PropertyDescription": {
+                                "Family": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Space Mono"
+                                },
+                                "Style": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Regular"
+                                },
+                                "Size": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 14
+                                },
+                                "LineHeight": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 18
+                                },
+                                "Color": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "color",
+                                    "$value": "#525252"
+                                }
+                            },
+                            "OptionTitle": {
+                                "Family": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Space Mono"
+                                },
+                                "Style": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Medium"
+                                },
+                                "Size": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 16
+                                },
+                                "LineHeight": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 20
+                                },
+                                "Color": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "color",
+                                    "$value": "#000000"
+                                },
+                                "Width": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 128
+                                },
+                                "Margin": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 16
+                                }
+                            },
+                            "OptionDescription": {
+                                "Family": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Space Mono"
+                                },
+                                "Style": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Regular"
+                                },
+                                "Size": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 14
+                                },
+                                "LineHeight": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 18
+                                },
+                                "Color": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "color",
+                                    "$value": "#525252"
+                                },
+                                "Width": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "float",
+                                    "$value": 192
+                                }
+                            }
+                        }
+                    },
+                    "Grid": {
+                        "Style": {
+                            "Gap": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 8
+                            },
+                            "MinWidth": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 320
+                            },
+                            "MinHeight": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 136
+                            },
+                            "Padding": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 32
+                            },
+                            "Stroke": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "color",
+                                "$value": "#e6e6e6"
+                            },
+                            "Fill": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "color",
+                                "$value": "#ffffff"
+                            },
+                            "FillInverted": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "color",
+                                "$value": "#000000"
+                            }
+                        },
+                        "Fonts": {
+                            "PropertyOption": {
+                                "Family": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Space Mono"
+                                },
+                                "Style": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Semi Bold"
+                                },
+                                "Color": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "color",
+                                    "$value": "#000000"
+                                },
+                                "Level0": {
+                                    "Size": {
+                                        "$scopes": [
+                                            "ALL_SCOPES"
+                                        ],
+                                        "$type": "float",
+                                        "$value": 32
+                                    },
+                                    "LineHeight": {
+                                        "$scopes": [
+                                            "ALL_SCOPES"
+                                        ],
+                                        "$type": "float",
+                                        "$value": 36
+                                    }
+                                },
+                                "Level1": {
+                                    "Size": {
+                                        "$scopes": [
+                                            "ALL_SCOPES"
+                                        ],
+                                        "$type": "float",
+                                        "$value": 28
+                                    },
+                                    "LineHeight": {
+                                        "$scopes": [
+                                            "ALL_SCOPES"
+                                        ],
+                                        "$type": "float",
+                                        "$value": 32
+                                    }
+                                },
+                                "Level2": {
+                                    "Size": {
+                                        "$scopes": [
+                                            "ALL_SCOPES"
+                                        ],
+                                        "$type": "float",
+                                        "$value": 24
+                                    },
+                                    "LineHeight": {
+                                        "$scopes": [
+                                            "ALL_SCOPES"
+                                        ],
+                                        "$type": "float",
+                                        "$value": 28
+                                    }
+                                }
+                            },
+                            "PropertyTitle": {
+                                "Family": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Space Mono"
+                                },
+                                "Style": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "string",
+                                    "$value": "Medium"
+                                },
+                                "Color": {
+                                    "$scopes": [
+                                        "ALL_SCOPES"
+                                    ],
+                                    "$type": "color",
+                                    "$value": "#000000"
+                                },
+                                "Level0": {
+                                    "Size": {
+                                        "$scopes": [
+                                            "ALL_SCOPES"
+                                        ],
+                                        "$type": "float",
+                                        "$value": 24
+                                    },
+                                    "LineHeight": {
+                                        "$scopes": [
+                                            "ALL_SCOPES"
+                                        ],
+                                        "$type": "float",
+                                        "$value": 28
+                                    }
+                                },
+                                "Level1": {
+                                    "Size": {
+                                        "$scopes": [
+                                            "ALL_SCOPES"
+                                        ],
+                                        "$type": "float",
+                                        "$value": 22
+                                    },
+                                    "LineHeight": {
+                                        "$scopes": [
+                                            "ALL_SCOPES"
+                                        ],
+                                        "$type": "float",
+                                        "$value": 26
+                                    }
+                                },
+                                "Level2": {
+                                    "Size": {
+                                        "$scopes": [
+                                            "ALL_SCOPES"
+                                        ],
+                                        "$type": "float",
+                                        "$value": 20
+                                    },
+                                    "LineHeight": {
+                                        "$scopes": [
+                                            "ALL_SCOPES"
+                                        ],
+                                        "$type": "float",
+                                        "$value": 24
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Sections": {
+                        "Main": {
+                            "Radius": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 0
+                            },
+                            "Padding": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 256
+                            },
+                            "Gap": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 128
+                            },
+                            "Fill": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "color",
+                                "$value": "rgba(0, 0, 0, 4)"
+                            },
+                            "Stroke": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "color",
+                                "$value": "rgba(0, 0, 0, 8)"
+                            },
+                            "Sort": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "boolean",
+                                "$value": true
+                            }
+                        },
+                        "Alternative": {
+                            "Radius": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 0
+                            },
+                            "Padding": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 128
+                            },
+                            "Gap": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 64
+                            },
+                            "Fill": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "color",
+                                "$value": "rgba(0, 0, 0, 6)"
+                            },
+                            "Stroke": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "color",
+                                "$value": "rgba(0, 0, 0, 12)"
+                            },
+                            "Sort": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "boolean",
+                                "$value": true
+                            }
+                        },
+                        "Layout": {
+                            "Radius": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 0
+                            },
+                            "Padding": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 128
+                            },
+                            "Gap": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 64
+                            },
+                            "Fill": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "color",
+                                "$value": "rgba(0, 0, 0, 6)"
+                            },
+                            "Stroke": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "color",
+                                "$value": "rgba(0, 0, 0, 12)"
+                            },
+                            "Sort": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "boolean",
+                                "$value": true
+                            }
+                        }
+                    },
+                    "Layouts": {
+                        "Gap": {
+                            "Min": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 32
+                            },
+                            "Max": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 192
+                            },
+                            "Step": {
+                                "$scopes": [
+                                    "ALL_SCOPES"
+                                ],
+                                "$type": "float",
+                                "$value": 32
+                            }
+                        },
+                        "SectionGap": {
+                            "$scopes": [
+                                "ALL_SCOPES"
+                            ],
+                            "$type": "float",
+                            "$value": 256
+                        }
+                    }
+                }
+            }
+        }
+    }
+]
